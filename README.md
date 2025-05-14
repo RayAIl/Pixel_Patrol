@@ -44,4 +44,5 @@ pip install ultralytics shutil pathlib
 - Имена результатов сохраняют оригинальные названия с префиксом RESULT_
 
 ## ⚖️ Лицензия
-MIT License.👉 **Почитать лицензию вы можете [здесь][![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)**
+MIT License.
+**Почитать лицензию 👉[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)**
