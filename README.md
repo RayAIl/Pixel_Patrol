@@ -45,4 +45,4 @@ pip install ultralytics shutil pathlib
 
 ## ⚖️ Лицензия
 MIT License.
-**Почитать лицензию 👉[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)**
+**Почитать лицензию 👉 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)**
